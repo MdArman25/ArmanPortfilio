@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-- Click [here](https://delwer.netlify.app/) to view the live demo.
+- Click [here](https://mdarmanportfolio.surge.sh/) to view the live demo.
 
 ## Getting Started
 
@@ -26,13 +26,13 @@ Make sure you have node `16.0.0` or higher and npm `9.0.0` or higher installed.
 - [Download the ZIP file from this location](https://github.com/delwerhossain/delwerPortfolio/archive/refs/heads/main.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/delwerhossain/delwerPortfolio.git
+git clone https://github.com/MdArman25/ArmanPortfilio.git
 ```
 
 - Once the files are on your machine, open the **delwerPortfolio** folder in [Visual Studio Code](https://code.visualstudio.com/download).
 
 ```
-cd delwerPortfolio && code .
+cd armanportfolio && code .
 ```
 
 ## Install
@@ -71,11 +71,11 @@ npm run preview
 
 ## Authors
 
-👤 **Delwer Hossain**
+👤 **Md. Arman**
 
-- GitHub: [@delwer](https://github.com/delwerhossain)
-- Twitter: [@delwerhossain0](https://twitter.com/delwerhossain0)
-- LinkedIn: [delwer-hossain](https://www.linkedin.com/in/delwer-hossain/)
+- GitHub: [@MdArman25](https://github.com/delwerhossain)
+- Twitter: [@MdArman25777](https://twitter.com/MdArman25777)
+- LinkedIn: [Md. Arman](https://www.linkedin.com/in/md-arman-79b131278/)
 
 ## Feedback and Contributions
 

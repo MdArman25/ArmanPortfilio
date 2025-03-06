@@ -22,7 +22,7 @@ import {
   coverhunt,
   blood,
   service,
-  brand,
+  the_morning_posts ,
   electice,
 } from "../assets";
 
@@ -176,33 +176,65 @@ const experiences = [
     iconBg: "#333333",
     date: "Start - Aug 2021 ",
   },
-  // {
-  //   title: "Mentor (Volunteer)",
-  //   company_name: "Microverse",
-  //   icon: microverse,
-  //   iconBg: "#333333",
-  //   date: "Mar 2022 - May 2022",
-  // },
-  // {
-  //   title: "Junior Software Engineer",
-  //   company_name: "Kelhel",
-  //   icon: kelhel,
-  //   iconBg: "#333333",
-  //   date: "May 2022 - Oct 2022",
-  // },
-  // {
-  //   title: "Full Stack Developer",
-  //   company_name: "Diversity Cyber Council",
-  //   icon: dcc,
-  //   iconBg: "#333333",
-  //   date: "Sep 2022 - Present",
-  // },
+  
 ];
 
-// Firebase | JWT| Axios | Express JS
 const projects = [
   {
     id: "project-2",
+    name: "The-Morning-Posts.",
+    description:
+      "AN ONLINE NewsPaper WEBSITE - CURD | DASHBOARD PANEL | Payment. ",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Express JS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Restful API",
+        color: "blue-text-gradient",
+      },
+
+      {
+        name: "Firebase",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JWT",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Axios",
+        color: "blue-text-gradient",
+      },
+
+      {
+        name: "TanStack Query",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "stripe",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: the_morning_posts,
+    repo: "https://github.com/MdArman25/The-Morning-Post-Server-Site.git",
+    demo: "https://the-morning-posts.surge.sh/",
+  },
+  {
+    id: "project-22",
     name: "Canvas Properties.",
     description:
       "AN ONLINE PROPERTY SELLER WEBSITE - CURD | DASHBOARD PANEL | PAYMENT. ",
@@ -288,40 +320,40 @@ const projects = [
     repo: "https://github.com/MdArman25/offline-Services-Client-side",
     demo: "https://offline-sharing-service.surge.sh/",
   },
-  {
-    id: "project-3",
-    name: "Tract FOOD RECIPE",
-    description: "AN ONLINE FOOD RECIPE WEBSITE. ",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Express JS",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Restful API",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Firebase",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: brand,
-    repo: "https://github.com/delwerhossain/Treact-Cafe",
-    demo: "https://123assignment-nine.surge.sh/",
-  },
+  // {
+  //   id: "project-3",
+  //   name: "Tract FOOD RECIPE",
+  //   description: "AN ONLINE FOOD RECIPE WEBSITE. ",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Express JS",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Restful API",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Firebase",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: brand,
+  //   repo: "https://github.com/delwerhossain/Treact-Cafe",
+  //   demo: "https://123assignment-nine.surge.sh/",
+  // },
   {
     id: "project-4",
     name: "JOB Factory",

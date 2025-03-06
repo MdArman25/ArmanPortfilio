@@ -47,6 +47,7 @@ import rest_api from "./tech/rest_api.png";
 import stripe from "./tech/stripe.png";
 
 // my projects
+import the_morning_posts from "./projects/morning-.png";
 import blood from "./projects/blood.png";
 import service from "./projects/service.png";
 import brand from "./projects/brand .png";
@@ -97,6 +98,7 @@ export {
   mysql,
   rest_api,
   stripe,
+  the_morning_posts,
   blood,
   service,
   brand,
